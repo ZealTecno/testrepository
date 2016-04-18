@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 public class FindPeopleFragment extends Fragment {
 	
 	public FindPeopleFragment(){}
-	
+	//changes done
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
